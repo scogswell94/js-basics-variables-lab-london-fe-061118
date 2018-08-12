@@ -1,3 +1,3 @@
 let companyName = 'Scuber';
 
-companyName 
+const companyName =  
