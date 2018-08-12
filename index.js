@@ -1,3 +1,2 @@
 let companyName = 'Scuber';
 
-companyName = (); 
